@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm JPcodes317! 👋
 
-<!--
-**JPcodes317/JPcodes317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a first-year University student and an aspiring Software Engineer. I'm currently leveraging YouTube and open-source resources to master coding and build scalable applications.
 
-Here are some ideas to get you started:
+### 🛠 My Tech Stack & Tools
+* **Languages:** Learning Python, JavaScript
+* **Interests:** Web Development, Automation, and Technical Analysis
+* **Currently Learning:** Git/GitHub and Backend Fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 My Goals
+- 💻 Building a portfolio of real-world projects.
+- 🌍 Seeking opportunities to collaborate on international open-source projects.
+- 📈 Transitioning into remote software engineering roles.
+
+### 📫 How to reach me
+- **LinkedIn:** [Insert your Link]
+- **Email:** [Insert your professional email]
+
+*"The best way to predict the future is to create it."*
